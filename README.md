@@ -1,4 +1,4 @@
-<!-- # 👋 Hey, I’m Donnie (DonnieTD) -->
+# 👋 Hey, I’m Donnie (DonnieTD)
 
 I build **systems**, not demos — and I care a lot about what’s left behind _after_ code runs.
 
